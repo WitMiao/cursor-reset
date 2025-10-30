@@ -1,8 +1,8 @@
-# Cursor Reset Script
+# Cursor Machine ID Reset (≥ 0.45.0)
 
 [English Version](#usage)
 
-这是一个用于重置 Cursor IDE 设备标识的 PowerShell 脚本。该脚本支持 Cursor 0.45.x 版本（已在 0.45.8 版本上测试通过）。
+支持 Windows / macOS / Linux。已在 0.45.8、0.46.1（示例）验证。
 
 ## ⚠️ 免责声明
 
@@ -115,7 +115,7 @@ pkill -9 Cursor
 
 ---
 
-This is a PowerShell script for resetting Cursor IDE device identifiers. The script supports Cursor 0.45.x.
+Works on Windows / macOS / Linux. Tested on 0.45.8, 0.46.1 (examples).
 
 ## ⚠️ Disclaimer
 
